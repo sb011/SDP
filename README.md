@@ -29,7 +29,7 @@ cd client
 npm start
 ```
 
-# Video :
+## Video :
 <p align="center">
   <video src="https://user-images.githubusercontent.com/71833071/168419026-4144cabf-8eff-439b-b5b9-46d6a87ead4b.mp4">
 </p>
