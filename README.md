@@ -29,9 +29,16 @@ cd client
 npm start
 ```
 
+# Video :
+<p align="center">
+  <video src="https://user-images.githubusercontent.com/71833071/168419026-4144cabf-8eff-439b-b5b9-46d6a87ead4b.mp4">
+</p>
+
+
+
 ## Screenshots :
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71833071/168418841-2546ea20-7932-42ac-993f-ac4df02f682d.jpg" height="300">
+  <img src="https://user-images.githubusercontent.com/71833071/168418841-2546ea20-7932-42ac-993f-ac4df02f682d.jpg" height="300" >
   <img src="https://user-images.githubusercontent.com/71833071/168418834-5da891de-716f-4515-9dfa-aca2e7b85e29.jpg" height="300" >
   <img src="https://user-images.githubusercontent.com/71833071/168418838-468288fa-185a-442b-a9fd-298bd3dec1cf.jpg" height="300" >
   <img src="https://user-images.githubusercontent.com/71833071/168418840-fcd81614-432a-43fa-b651-160abddbbc69.jpg" height="300" >
